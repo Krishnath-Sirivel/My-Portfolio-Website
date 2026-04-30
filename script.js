@@ -1,6 +1,8 @@
-const circle = document.querySelector(".circle");
+<button onclick="changeColor()">Change Background</button>
 
-document.addEventListener("mousemove", (event) => {
-  circle.style.left = event.clientX + "px";
-  circle.style.top = event.clientY + "px";
-});
+<script>
+function changeColor() {
+    document.body.style.backgroundColor = 
+        '#' + Math.floor(Math.random()*16777215).toString(16);
+}
+</script>
