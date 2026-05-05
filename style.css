@@ -7,9 +7,19 @@ body {
 h1 {
     color: #333;
 }
-
-nav page {
+/* #0077cc */
+.index-page {
     margin-right: 20px;
     text-decoration: none;
-    color: #0077cc;
+    color: #ff0000;
+}
+.projects-page {
+    margin-right: 20px;
+    text-decoration: none;
+    color: #00ff00;
+}
+.about-page {
+    margin-right: 20px;
+    text-decoration: none;
+    color: #0000ff;
 }
