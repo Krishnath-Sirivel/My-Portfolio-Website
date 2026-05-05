@@ -12,19 +12,16 @@ h1 {
     margin-right: 20px;
     text-decoration: none;
     color: red;
-    text-decoration-line: None;
 }
 .projects-page {
     margin-right: 20px;
     text-decoration: none;
     color: green;
-    text-decoration-line: None;
 }
 .about-page {
     margin-right: 20px;
     text-decoration: none;
     color: blue;
-    text-decoration-line: None;
 }
 
 .index-page:hover, .projects-page:hover, .about-page:hover {
