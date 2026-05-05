@@ -11,7 +11,7 @@ h1 {
 .index-page {
     margin-right: 20px;
     text-decoration: none;
-    color: red;
+    color: blue;
 }
 .projects-page {
     margin-right: 20px;
@@ -21,7 +21,7 @@ h1 {
 .about-page {
     margin-right: 20px;
     text-decoration: none;
-    color: blue;
+    color: red;
 }
 
 .index-page:hover, .projects-page:hover, .about-page:hover {
