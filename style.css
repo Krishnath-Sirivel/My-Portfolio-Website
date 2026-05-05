@@ -7,19 +7,26 @@ body {
 h1 {
     color: #333;
 }
-/* #0077cc */
+
 .index-page {
     margin-right: 20px;
     text-decoration: none;
-    color: #ff0000;
+    color: red;
+    text-decoration-line: None;
 }
 .projects-page {
     margin-right: 20px;
     text-decoration: none;
-    color: #00ff00;
+    color: green;
+    text-decoration-line: None;
 }
 .about-page {
     margin-right: 20px;
     text-decoration: none;
-    color: #0000ff;
+    color: blue;
+    text-decoration-line: None;
+}
+
+.index-page:hover, .projects-page:hover, .about-page:hover {
+    text-decoration-line: underline;
 }
