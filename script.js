@@ -4,5 +4,5 @@ function changeColor() {
 }
 
 function resetColor() {
-    document.body.style.backgroundColor = '#' + 000000;
+    document.body.style.backgroundColor = '#000000';
 }
