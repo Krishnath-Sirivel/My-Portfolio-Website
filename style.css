@@ -8,23 +8,19 @@ h1 {
     color: #333;
 }
 
-.index-page {
-    margin-right: 20px;
-    text-decoration: none;
-    color: blue;
-}
-.projects-page {
-    margin-right: 20px;
-    text-decoration: none;
-    color: green;
-}
-.about-page {
-    margin-right: 20px;
+.navigation-bar {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
     text-decoration: none;
     color: red;
+    font-size: 18px;
+    padding: 15px 0;
+    border-bottom: 1px solid #ddd;
 }
 
-.index-page:hover, .projects-page:hover, .about-page:hover {
+.navigation-bar:hover {
+    color: crimson;
     text-decoration-line: underline;
 }
 
