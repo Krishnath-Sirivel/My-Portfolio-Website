@@ -56,3 +56,12 @@ h1 {
 .project-link:hover {
     background: #005fcc;
 }
+
+footer {
+    margin-top: 60px;
+    padding: 20px 0;
+    text-align: center;
+    color: #555;
+    font-size: 14px;
+    border-top: 1px solid #ddd;
+}
