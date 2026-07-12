@@ -26,6 +26,8 @@ h1 {
 .navigation-bar a:hover {
     color: firebrick;
     text-decoration-line: underline;
+}
+.navigation-bar a:active {
     font-weight: bold;
 }
 
