@@ -20,7 +20,7 @@ h1 {
 }
 
 .navigation-bar:hover {
-    color: crimson;
+    color: firebrick;
     text-decoration-line: underline;
 }
 
