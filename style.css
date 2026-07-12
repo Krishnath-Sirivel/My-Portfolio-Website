@@ -21,10 +21,12 @@ h1 {
     text-decoration: none;
     color: red;
     font-size: 18px;
+    font-weight: normal;
 }
 .navigation-bar a:hover {
     color: firebrick;
     text-decoration-line: underline;
+    font-weight: bold;
 }
 
 .project-card {
