@@ -9,7 +9,7 @@ h1 {
 }
 
 .navigation-bar {
-    display: flex;
+    display: block;
     justify-content: center;
     gap: 30px;
     text-decoration: none;
