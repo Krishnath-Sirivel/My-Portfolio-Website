@@ -1,8 +1,8 @@
 @import https://fonts.googleapis.com/css?family=Inter
 body {
-    font-family: Inter;
     background-color: #f5f5f5;
     margin: 40px;
+    font-family: Inter;
 }
 
 h1 {
