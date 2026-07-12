@@ -27,3 +27,32 @@ h1 {
 .index-page:hover, .projects-page:hover, .about-page:hover {
     text-decoration-line: underline;
 }
+
+.project-card {
+    background: white;
+    padding: 20px;
+    margin-top: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    max-width: 600px;
+}
+
+.project-card h2 {
+    margin-top: 0;
+    color: #222;
+}
+
+.project-link {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 10px 15px;
+    background: #0077ff;
+    color: white;
+    text-decoration: none;
+    border-radius: 6px;
+    transition: 0.2s;
+}
+
+.project-link:hover {
+    background: #005fcc;
+}
